@@ -68,7 +68,8 @@ const TabsLayout = () => {
             marginLeft: 'auto',
             marginRight: 'auto',
             marginBottom: 20,
-            paddingTop: 2
+            paddingTop: 2,
+            position: 'absolute'
           },
         }}
       >
