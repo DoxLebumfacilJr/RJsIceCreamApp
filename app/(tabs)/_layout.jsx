@@ -26,7 +26,11 @@ const TabIcon = ({ icon, color, name, focused }) => {
   }, [focused]);
 
   return (
-    <View style={{ alignItems: 'center', justifyContent: 'center', position: 'relative' }}>
+    <View style={{ alignItems: 'center',
+    justifyContent: 'center',
+    position: 'relative'
+    }}
+    >
       <Image
         source={icon}
         resizeMode="contain"
@@ -79,7 +83,11 @@ const TabsLayout = () => {
             title: "Home",
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
-              <TabIcon icon={icons.home} color={color} name="Home" focused={focused} />
+              <TabIcon icon={icons.home}
+              color={color}
+              name="Home"
+              focused={focused}
+              />
             ),
           }}
         />
@@ -89,7 +97,11 @@ const TabsLayout = () => {
             title: "Bookmark",
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
-              <TabIcon icon={icons.bookmark} color={color} name="Bookmark" focused={focused} />
+              <TabIcon icon={icons.bookmark}
+              color={color}
+              name="Bookmark"
+              focused={focused}
+              />
             ),
           }}
         />
@@ -99,7 +111,11 @@ const TabsLayout = () => {
             title: "Orders",
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
-              <TabIcon icon={icons.orders} color={color} name="Orders" focused={focused} />
+              <TabIcon icon={icons.orders}
+              color={color}
+              name="Orders"
+              focused={focused}
+              />
             ),
           }}
         />
@@ -109,7 +125,11 @@ const TabsLayout = () => {
             title: "Map",
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
-              <TabIcon icon={icons.map} color={color} name="Map" focused={focused} />
+              <TabIcon icon={icons.map}
+              color={color}
+              name="Map"
+              focused={focused}
+              />
             ),
           }}
         />
@@ -119,7 +139,11 @@ const TabsLayout = () => {
             title: "Profile",
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
-              <TabIcon icon={icons.profile} color={color} name="Profile" focused={focused} />
+              <TabIcon icon={icons.profile}
+              color={color}
+              name="Profile"
+              focused={focused}
+              />
             ),
           }}
         />
