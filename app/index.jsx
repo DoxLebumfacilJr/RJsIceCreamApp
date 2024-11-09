@@ -8,9 +8,9 @@ import CustomButtons from '../components/CustomButtons';
 
 export default function App() {
   return (
-    <SafeAreaView className="bg-primary h-full">
+    <SafeAreaView className="bg-primary h-full pt-5">
       <ScrollView contentContainerStyle={{ height: '100%' }}>
-        <View className="w-full items-center justify-center min-h-[85vh] px-4 pt-20">
+        <View className="w-full items-center justify-center min-h-[85vh] px-4 pt-19">
           <Image
             source={images.logo}
             className="max-w-[290px] h-[260px]"
@@ -28,7 +28,7 @@ export default function App() {
               resizeMode='contain'
             />
             
-            <Text className="text-sm font-pregular text-gray-100 mt-2 text-center">
+            <Text className="text-sm font-pregular text-gray-100 mt-6 text-center">
               Where All Special Ice Creams In Any Occasions Of RJsIceCream 
             </Text>
 

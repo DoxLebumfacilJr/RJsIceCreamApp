@@ -63,17 +63,22 @@ const TabsLayout = () => {
           tabBarInactiveTintColor: "#CDCDE0",
           tabBarShowLabel: false,
           tabBarStyle: {
-            backgroundColor: "#161622",
+
+            backgroundColor: "rgba(37,40,48,0.8)",
             borderTopWidth: 1,
             borderTopColor: "#232533",
-            height: 85,
+            height: 80,
             width: width - 20,
-            borderRadius: 60,
+            borderRadius: 40,
+
+            alignItems: 'center',
+            justifyContent: 'center',
+            alignContent: "center",
             marginLeft: 'auto',
             marginRight: 'auto',
-            marginBottom: 20,
-            paddingTop: 2,
-            position: 'absolute'
+            marginBottom: 18,
+            paddingTop: 7,
+            position: 'relative'
           },
         }}
       >
