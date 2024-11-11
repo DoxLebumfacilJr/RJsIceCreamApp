@@ -17,8 +17,14 @@ RJsIceCream Mobile App.
 # ScreenShots :)
 * Per Screens as Of Now is 8 Screens Including The TabIcons Screens :)
 
-# Home Screen -----------> Sign In Screen ------> Sign Up Screen
-<img src="assets/images/screenshots/index.PNG" width=280> <--> <img src="assets/images/screenshots/sign-in.PNG" width=280> <--> <img src="assets/images/screenshots/sign-up.png" width=280> 
+# Home Screen  
+<img src="assets/images/screenshots/index.PNG" width=280>
+
+# Sign In Screen
+<img src="assets/images/screenshots/sign-in.PNG" width=280> 
+
+# Sign Up Screen
+<img src="assets/images/screenshots/sign-up.png" width=280> 
 
 
 # Tabs Screen No Content Yet :)
