@@ -32,7 +32,12 @@ RJsIceCream Mobile App.
 
 # MP4 Walk Through Video From Home Screen To Sign-up Screen
 
-<video src="https://github.com/user-attachments/assets/af8cb1f8-25f1-4bde-9b2e-b56fe3806846" width=180/>
+https://github.com/user-attachments/assets/8656c926-ee3d-44c7-a774-cd83acf723a2
+
+
+
+
+
 
 
 
