@@ -15,7 +15,7 @@ RJsIceCream Mobile App.
 * HTML, CSS and JS
 
 # ScreenShots :)
-* Per Screens as Of Now is 8 Screens Including The TabIcons Screens :)
+* The Screens as Of Now is 8 Screens Including The TabIcons Screens :)
 
 # Home Screen  
 <img src="assets/images/screenshots/index.PNG" width=280>
