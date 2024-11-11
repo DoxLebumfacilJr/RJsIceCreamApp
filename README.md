@@ -24,7 +24,9 @@ RJsIceCream Mobile App.
 # Tabs Screen
 <img src="assets/images/screenshots/(tabs).PNG">  
 
-# MP4 Walk Through
-* Soon :)
+# MP4 Walk Through Video From Home Screen To Tabs Screen
+
+<video src="assets/imagis/videos/Walk Through Video For TabsIcons.mp4" width=180/>
+
 
 
