@@ -10,9 +10,21 @@ RJsIceCream Mobile App.
 * AppWrite
 * HTML, CSS and JS
 
-# ScreenShots Soon hehe :)
-*No ScreenShots yet
+# ScreenShots :)
+
+# Home Screen
+<img src="assets/images/screenshots/index.PNG">  
+
+# Sign In Screen
+<img src="assets/images/screenshots/sign-in.PNG">  
+
+# Sign Up Screen
+<img src="assets/images/screenshots/sign-up.png"> 
+
+# Tabs Screen
+<img src="assets/images/screenshots/(tabs).PNG">  
 
 # MP4 Walk Through
 * Soon :)
+
 
